@@ -97,7 +97,7 @@ width: 0;
 .creative-parent {
     width:100%;
     height: 100vh;
-    background-image: url(../Images/ddd.jpg);
+    background-image: url(../images/ddd.jpg);
     position: relative;
 }
 .creative-item {
